@@ -1,9 +1,11 @@
 # 个人介绍
 * 肖嘉健，18级网络与新媒体二班学生
 * 做事较独立，有探究精神
+* 愿意花时间，有团队精神
 
 # Python 学习程度
 * 了解python的数据结构
+* 了解python的for循环。
 * 对web应用的构建和数据库有一定的了解
 * 熟悉Pythonanywhere的部署
 * [Pythonanywhere](http://xjiajian.pythonanywhere.com/)
